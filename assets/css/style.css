@@ -30,13 +30,6 @@ header {
     font-family: 'Roboto Slab', serif;
 }
 
-/*--
-mark {
-    background-color: #40c2ff;
-    color: #ffffff;
-}
---*/
-
 .card-header {
     background-color: #000000;
     color: #ffffff;
@@ -48,26 +41,22 @@ mark {
 }
 
 .btn-warning {
-    border-color: #000000;
-    background-color: #f0ad4e;
+    background-color: #FFD700;
     color: #000000;
 }
 
 .btn-warning:hover {
-    border-color: #f0ad4e;
     background-color: #000000;
-    color: #f0ad4e;
+    color: #FFD700;
 }
 
 .btn-outline-warning {
-    border-color: #f0ad4e;
     background-color: #000000;
-    color: #f0ad4e;
+    color: #FFD700;
 }
 
 .btn-outline-warning:hover {
-    border-color: #000000;
-    background-color: #f0ad4e;
+    background-color: #FFD700;
     color: #000000;
 }
 
