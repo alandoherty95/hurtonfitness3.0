@@ -61,3 +61,7 @@ header {
     color: #ffffff;
     background-color: #808080;
 }
+
+ul {
+    line-height: 3;
+}
